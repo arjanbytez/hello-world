@@ -1,7 +1,7 @@
-		language: node_js
-		node_js:
-		  - "stable"  
+language: node_js
+node_js:
+- "stable"  
 
-		script: 
-		- npm run
-		- copyall.sh
+script: 
+- npm run
+- copyall.sh
